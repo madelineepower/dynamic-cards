@@ -1,0 +1,44 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#cards {
+  border: 2px solid black;
+  width: 100%;
+  height: 400px;
+  overflow-y: scroll;
+  margin: 3%;
+}
+
+#inputArea {
+  width: 80%;
+  margin: 3%;
+}
+
+.input {
+  width: 70%;
+  height: 2em;
+  font-size: 1em;
+}
+
+button {
+  padding: 1%;
+  font-size: 1em;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  display: inline-block;
+  border: 2px solid navy;
+  margin: 2%;
+  text-align: center;
+  padding: 3%;
+}
+
+section div p {
+  font-size: 1.5em;
+}
